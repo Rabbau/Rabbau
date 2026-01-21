@@ -1,5 +1,3 @@
-## 👋 Привет, яPython Backend Developer
-
 Мой стек и интересы:
 - **Backend:** Python, Django, FastAPI, Flask, REST API, PostgreSQL, С++
 - **Инструменты:** Git, Docker, SQL, Pydantic, ORM
