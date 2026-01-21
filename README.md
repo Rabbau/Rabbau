@@ -21,7 +21,7 @@ REST API для генерации криптографически стойки
 ## 🎯 Алгоритмы и задачи
 
 ### Codewars
-[![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Rabbl&card&colormode=dark_mode)
+[![Codewars](https://www.codewars.com/users/Rabbl/badges/large)
 **Ранг:** 4 kyu | **Честь:** 1500+ | **Решено задач:** 250+
 
 ### LeetCode
