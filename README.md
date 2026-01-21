@@ -18,5 +18,11 @@ REST API для генерации криптографически стойки
 - Email: oprovozenko@gmail.com
 - Telegram: @ra66au
 
-## 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+## 🎯 Алгоритмы и задачи
+
+### Codewars
+[![Codewars](https://www.codewars.com/users/rabbl/badge/large)](https://www.codewars.com/users/rabbl)
+**Ранг:** 4 kyu | **Честь:** 1500+ | **Решено задач:** 250+
+
+### LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rabbl?theme=light&font=Karla&ext=activity)](https://leetcode.com/rabbl/)
