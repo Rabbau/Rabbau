@@ -23,7 +23,7 @@ REST API для генерации криптографически стойки
 ### Codewars
 ![Codewars](https://www.codewars.com/users/Rabbl/badges/large)
 
-**Ранг:** 4 kyu | **Честь:** 1500+ | **Решено задач:** 250+
+**Ранг:** 5 kyu | * **Решено задач:** 190+
 
 ### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/rabbl?theme=dark&font=Karla&ext=activity)](https://leetcode.com/rabbl/)
