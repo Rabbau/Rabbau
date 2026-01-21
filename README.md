@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Привет, яPython Backend Developer
 
-<!--
-**Rabbau/Rabbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой стек и интересы:
+- **Backend:** Python, Django, FastAPI, Flask, REST API, PostgreSQL, С++
+- **Инструменты:** Git, Docker, SQL, Pydantic, ORM
+- **Другие технологии:** numpy, matplotlib, алгоритмы, криптография
 
-Here are some ideas to get you started:
+## 🚀 Мои ключевые проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [🔐 Password Generator API](ссылка)
+REST API для генерации криптографически стойких паролей на FastAPI с валидацией, rate limiting и автодокументацией.
+
+### [🛒 Django E-commerce](ссылка)
+Полноценный интернет-магазин с каталогом товаров, корзиной, пользовательскими сессиями и панелью администратора.
+
+### [⛅ Weather Dashboard](ссылка)
+Веб-приложение для отображения текущей погоды и прогноза с интеграцией внешнего API, кэшированием и адаптивным интерфейсом.
+
+## 📫 Как со мной связаться
+- Email: oprovozenko@gmail.com
+- Telegram: @ra66au
+
+## 📊 Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
