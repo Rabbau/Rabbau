@@ -11,4 +11,4 @@
 | **Решено задач:** 190+
 
 ### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rabbl?theme=dark&font=Karla&ext=activity)](https://leetcode.com/rabbl/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/HaHnfPQtaQ?theme=dark&font=Karla&ext=activity)](https://leetcode.com/HaHnfPQtaQ/)
