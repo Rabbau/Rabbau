@@ -1,14 +1,15 @@
-Мой стек и интересы:
-- **Backend:** Python, Django, FastAPI, Flask, REST API, PostgreSQL, С++
-- **Инструменты:** Git, Docker, SQL, Pydantic, ORM
-- **Другие технологии:** numpy, matplotlib, алгоритмы, криптография
 
-## 🎯 Алгоритмы и задачи
+My stack and interests:
+- **Backend:** Python, Django, FastAPI, Flask, REST API, PostgreSQL, С++
+- **Tools:** Git, Docker, SQL, Pydantic, ORM
+- **Other technologies:** numpy, matplotlib, algorithms, cryptography
+
+## 🎯 Algorithms and tasks
 
 ### Codewars
 ![Codewars](https://www.codewars.com/users/Rabbl/badges/large)
 
-| **Решено задач:** 190+
+| **Tasks solved:** 190+
 
 ### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/HaHnfPQtaQ?theme=dark&font=Karla&ext=activity)](https://leetcode.com/HaHnfPQtaQ/)
