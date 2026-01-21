@@ -1,5 +1,5 @@
 
-My stack and interests:
+## My stack and interests:
 - **Backend:** Python, Django, FastAPI, Flask, REST API, PostgreSQL, С++
 - **Tools:** Git, Docker, SQL, Pydantic, ORM
 - **Other technologies:** numpy, matplotlib, algorithms, cryptography
