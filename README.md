@@ -9,7 +9,7 @@
 ### Codewars
 ![Codewars](https://www.codewars.com/users/Rabbl/badges/large)
 
-| **Tasks solved:** 190+
+| **Tasks solved:** 190+ https://www.codewars.com/users/Rabbl
 
 ### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/HaHnfPQtaQ?theme=dark&font=Karla&ext=activity)](https://leetcode.com/HaHnfPQtaQ/)
