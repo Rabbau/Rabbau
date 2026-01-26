@@ -13,3 +13,5 @@
 
 ### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/HaHnfPQtaQ?theme=dark&font=Karla&ext=activity)](https://leetcode.com/HaHnfPQtaQ/)
+
+https://leetcode.com/u/HaHnfPQtaQ/
