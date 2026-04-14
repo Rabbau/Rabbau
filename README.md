@@ -4,6 +4,8 @@
 - **Tools:** Git, Docker, SQL, Pydantic, ORM
 - **Other technologies:** numpy, matplotlib, algorithms, cryptography
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rabbau)](https://git.io/streak-stats)
+
 ## 🎯 Algorithms and tasks
 
 ### Codewars
@@ -14,4 +16,4 @@
 ### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/HaHnfPQtaQ?theme=dark&font=Karla&ext=activity)](https://leetcode.com/HaHnfPQtaQ/)
 
-https://leetcode.com/u/HaHnfPQtaQ/
+
