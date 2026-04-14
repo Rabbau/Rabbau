@@ -4,7 +4,7 @@
 - **Tools:** Git, Docker, SQL, Pydantic, ORM
 - **Other technologies:** numpy, matplotlib, algorithms, cryptography
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rabbau)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rabbau&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🎯 Algorithms and tasks
 
