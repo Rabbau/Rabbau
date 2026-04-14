@@ -13,6 +13,5 @@
 
 
 ### LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Rabbau&theme=dark)](https://github.com/Rabbau/leetcode-stats)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/HaHnfPQtaQ?theme=dark&font=Gowun%20Dodum)
 
