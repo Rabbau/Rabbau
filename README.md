@@ -13,6 +13,6 @@
 
 
 ### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/HaHnfPQtaQ?theme=dark&font=Karla&ext=activity)](https://leetcode.com/HaHnfPQtaQ/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Rabbau&theme=dark)](https://github.com/Rabbau/leetcode-stats)
 
 
