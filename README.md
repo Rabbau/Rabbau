@@ -1,11 +1,11 @@
 
 ## Hi, I'm Oleg 👋
 
-Backend Developer from Russia.
+Python Backend Developer
 
-I build backend services, REST APIs and Telegram bots using Python.
+Building backend services, REST APIs and Telegram bots.
 
-Currently interested in backend architecture, API design and developer tooling.
+Interested in backend architecture, distributed systems and DevOps.
 
 ---
 
