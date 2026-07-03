@@ -11,7 +11,7 @@ Currently interested in backend architecture, API design and developer tooling.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rabbau&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## 🎯 Algorithms and tasks
+## 📚 Problem Solving
 
 ### Codewars
 ![Codewars](https://www.codewars.com/users/Rabbl/badges/large)
