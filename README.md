@@ -1,8 +1,13 @@
 
-## My stack and interests:
-- **Backend:** Python, Django, FastAPI, Flask, REST API, PostgreSQL, С++
-- **Tools:** Git, Docker, SQL, Pydantic, ORM
-- **Other technologies:** numpy, matplotlib, algorithms, cryptography
+# Hi, I'm Oleg 👋
+
+Backend Developer from Russia.
+
+I build backend services, REST APIs and Telegram bots using Python.
+
+Currently interested in backend architecture, API design and developer tooling.
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rabbau&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
