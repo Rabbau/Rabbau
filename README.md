@@ -1,6 +1,3 @@
-
-## Hi, I'm Oleg 👋
-
 Python Backend Developer
 
 Building backend services, REST APIs and Telegram bots.
